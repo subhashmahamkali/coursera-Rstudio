@@ -1,7 +1,6 @@
 # coursera-Rstudio
 course work and codes from online lectures
 
-
 week-2 module for R studio workshop.
 Programming with R.
 If else statment use, and for loop, While loop statments with example.
@@ -29,3 +28,26 @@ debug- flags a function for debug mode. allows you to step throughexecution of a
 browser-suspends the function execution and puts function in debug mode
 trace-allows you to insert debugging code into a fucntion.
 recover- allows to modify error behaviour by stopping the execution of function at error.
+
+
+
+Str (structure) function- takes an R object- compactly dispaly inner function. alternative summary
+one line output.
+
+simulation -generating random numbers
+probability distribution functions usually have 4 functions associated wuth them. those prefixed with.
+d -density
+r -randon number generation
+p - cumulative distribution
+q - quantile function.
+
+
+
+
+
+
+
+
+
+
+
